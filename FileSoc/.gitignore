@@ -1,0 +1,7 @@
+client.*
+server.*
+client
+server
+
+!server.cpp
+!client.cpp
